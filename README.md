@@ -1,2 +1,2 @@
 # bestpoz
-bestpoz is learning platform.
+first patch: bestpoz is learning platform.
